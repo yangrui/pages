@@ -1,0 +1,13 @@
+# Hugo generated files
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+# Hugo executables
+hugo.exe
+hugo.darwin
+hugo.linux
+# Temporary build lock file
+/.hugo_build.lock
+# Node dependencies (if using npm/yarn for assets)
+node_modules/
