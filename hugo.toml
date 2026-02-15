@@ -1,8 +1,13 @@
 baseURL = 'https://yangrui.github.io/'
+copyright = '©2026 杨瑞'
 languageCode = 'zh-cn'
-title = '我的个人主页'
-theme = 'ananke'
+title = '老杨的编程笔记'
+theme = 'PaperMod'
 
 [caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+    [caches.images]
+        dir = ':cacheDir/images'
+
+[params]
+    defaultTheme = 'auto'
+    ShowCodeCopyButtons = true

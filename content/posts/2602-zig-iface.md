@@ -2,7 +2,6 @@
 title: "Zig 接口实现的多种方法"
 date: "2026-02-08"
 description: "探讨在 Zig 语言中实现接口和多态的多种方法，分析各自的原理、优缺点及适用场景。"
-author: "uozewe"
 tags: ["Zig", "接口", "多态"]
 ---
 
