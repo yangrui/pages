@@ -2,3 +2,7 @@ baseURL = 'https://yangrui.github.io/'
 languageCode = 'zh-cn'
 title = '我的个人主页'
 theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
