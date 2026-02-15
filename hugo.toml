@@ -11,3 +11,7 @@ theme = 'PaperMod'
 [params]
     defaultTheme = 'auto'
     ShowCodeCopyButtons = true
+
+    [params.assets]
+        disableFingerprinting = false
+        favicon = "/favicon.ico"
